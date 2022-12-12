@@ -220,6 +220,7 @@ select {
     background: rgb(222, 208, 208);
     border-radius: 8px;
 }
+
 form input[type="number"]{
     width: 387px;
     padding: 20px 10px;

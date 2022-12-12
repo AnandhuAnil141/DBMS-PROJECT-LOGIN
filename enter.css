@@ -1,0 +1,34 @@
+.mainbody{
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(69, 71, 87);
+    
+}
+.center{
+    height: 400px;
+    width: 45%;
+    background-color: antiquewhite;
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 410px;
+    border-radius: 35px;
+}
+.input1{
+    margin-top: 65px;
+    size: 100px;
+    width: 387px;
+    color: ;
+
+}
+.input2{
+    margin-top: 65px;
+    size: 100px;
+    width: 387px;
+
+}
+   
+    
+    
+    
+    

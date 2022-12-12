@@ -1,0 +1,121 @@
+body{
+    background-image: url("filterpic3.jpg");
+  background-size: 25%;
+}
+.mainb{
+    font-weight: bolder;
+    font-family: sans-serif;
+    color: #fff;
+    font-size: 132%;
+    \\\background-color: black;
+    margin-top: 180px;
+    text-decoration-color: red;
+    width: 100%;
+    height: 145px;
+    \\\opacity: 0.3;
+}
+.input1{
+   
+    color:#fff;
+    size: 20px;
+    margin-top: 50px;
+    margin-left: 20px;
+    text-align: left;
+    background: rgba(0,0,0,.3);;
+}
+select{
+    margin-top: 20px;
+    width: 170px;
+    height: 50px;
+    background: rgb(222, 208, 208);
+    border-radius: 8px;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.608);
+    outline: none;
+}
+label{
+    size: 5cm;
+}
+.lab1{
+    margin-top: 2px;
+    margin-bottom: 21px;
+    margin-left: 50x;
+    padding-left: 20px;
+    
+}
+.p1{
+    float: right;
+    margin-top: -25px;
+    margin-left: 6px;
+    margin-right: -140px;
+}
+.p2{
+    float: left;
+    margin-top: -25px;
+    margin-right: 50x;
+}
+
+.input2{
+    color: aliceblue;
+    float: right;
+    margin-top: -95px;
+    margin-right: 1190px;
+}
+form input[type="number"]{ 
+    margin-top: 20px;
+    width: 100px;
+    height: 47px;
+    background: rgb(222, 208, 208);
+    border-radius: 8px;
+    color: rgba(0, 0, 0, 0.608);
+    outline: none;
+    font-size: 20px;
+
+    
+}
+.input3{
+    float: right;
+    margin-top: -96px;
+    margin-right: 847px;
+    margin-left: 20px;
+}
+.container{
+    margin-top: 360px;
+    
+}
+.input4{
+    float: right;
+    margin-top: -96px;
+    margin-right: 644px;
+    margin-left: 20px;
+}
+.input5{
+    float: right;
+    margin-top: -96px;
+    margin-right: 442px;
+    margin-left: 20px;
+}
+.input6{
+    float: right;
+    margin-top: -96px;
+    margin-right: 240px;
+    margin-left: 20px;
+}
+.input7{
+    float: right;
+    margin-top: -40px;
+    margin-right: 90px; 
+}
+button  {
+    cursor: pointer;
+    border-radius: 9px;
+    color: #fff;
+    background-color: rgba(237, 156, 85, 0.923);
+   
+    float: right;
+    margin-top: -5px;
+    margin-right: 40px;
+    size: 80px; 
+}
+
+    
